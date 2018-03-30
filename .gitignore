@@ -1,0 +1,23 @@
+wp-config.php
+.env
+.htaccess
+*.log
+
+# bower
+**/bower_components
+
+# composer
+**/vendor
+
+# Mac OSX
+**/.DS_Store
+
+# npm
+**/npm-debug.log
+**/node_modules
+
+# Other
+**/.phpintel
+
+# internal theme
+**/lean/dist/
